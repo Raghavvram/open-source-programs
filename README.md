@@ -11,6 +11,7 @@ PeaZip - https://peazip.github.io/
 
 
 ### Videos Player
+
 ScreenBox - https://github.com/huynhsontung/Screenbox
 
 Haruna - https://invent.kde.org/multimedia/haruna
